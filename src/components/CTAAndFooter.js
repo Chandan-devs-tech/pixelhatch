@@ -267,7 +267,7 @@ const CTAAndFooter = () => {
                   <IconBrandInstagram size={20} stroke={2} />
                 </SocialLink>
                 <SocialLink
-                  href="https://www.linkedin.com/company/92896939/"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="linkedin"
