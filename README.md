@@ -23,11 +23,11 @@ A modern, responsive landing page for PixelHatch, a creative digital agency spec
 
 ## 🚀 Demo
 
-[Live Demo](https://your-deployed-url.vercel.app) <!-- Replace with your actual Vercel URL -->
+[Live Demo](https://pixel-hatch.netlify.app/)
 
 ## 📸 Screenshots
 
-![PixelHatch Landing Page Preview](./public/images/screencapture-pixel-hatch.png)
+![PixelHatch Landing Page Preview](./public/images/screencapture-pixel-hatch.webp)
 
 ### Key Sections:
 
